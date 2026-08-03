@@ -1,6 +1,4 @@
-from evaluaciones import registrar_evaluacion
-from evaluaciones import consultar_estudiante
-from evaluaciones import calcular_promedio
+from registro_evaluaciones import registrar_evaluacion,consultar_estudiante,calcular_promedio
 
 while True:
 
